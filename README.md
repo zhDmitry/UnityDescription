@@ -1,4 +1,5 @@
-Спейс шутер "Ego"
+## Спейс шутер "Ego"
+
 ![game](https://raw.githubusercontent.com/zhDmitry/UnityDescription/master/2017-06-26%2022.48.03.jpg)
 1. Макет світу
  - гра відбувається в космічному просторі
